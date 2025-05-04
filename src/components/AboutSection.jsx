@@ -16,21 +16,20 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
+            Software Developer with expertise in web development, I specialize
+              in creating responsive, accessible, AI-driven solutions, and performant web
               applications using modern technologies.
             </p>
 
             <p className="text-muted-foreground">
-              I'm passionate about creating elegant solutions to complex
-              problems, and I'm constantly learning new technologies and
-              techniques to stay at the forefront of the ever-evolving web
-              landscape.
+            Skilled
+in modern frameworks to build efficient, user-focused applications. Passionate about using technology to solve
+problems, enhance user experience, and improve systems. Seeking opportunities to contribute to innovative
+projects and grow my technical skills.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
               <a href="#contact" className="cosmic-button">
-                {" "}
                 Get In Touch
               </a>
 
