@@ -145,8 +145,8 @@
 }
 
 @utility star {
-  @apply absolute rounded-full bg-white;
-  box-shadow: 0 0 10px 2px rgba(255, 255, 255, 0.4);
+  @apply absolute rounded-full bg-blue-400;
+  box-shadow: 0 0 10px 2px rgb(70, 227, 222);
 }
 
 @utility meteor {
